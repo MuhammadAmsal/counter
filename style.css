@@ -1,0 +1,16 @@
+#hov:hover{
+    color: white;
+    background-color: black;
+    transition-duration: 1.5s;
+}
+span{
+    font-size: 90px;
+    padding: 10px;
+    color: grey;
+}
+h1{
+    font-size: 60px;
+}
+ body{
+    background-color: rgb(146, 203, 222);
+ }

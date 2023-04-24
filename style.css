@@ -1,16 +1,38 @@
-#hov:hover{
-    color: white;
-    background-color: black;
-    transition-duration: 1.5s;
+ #hov:hover {
+  color: white;
+  background-color: black;
+  transition-duration: 1.5s;
 }
-span{
-    font-size: 90px;
-    padding: 10px;
-    color: grey;
+span {
+  font-size: 90px;
+  padding: 10px;
+  color: grey;
 }
-h1{
-    font-size: 60px;
+h1 {
+  font-size: 60px;
 }
- body{
-    background-color: rgb(146, 203, 222);
- }
+body {
+  background-color: rgb(146, 203, 222);
+}
+
+.unique {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.increase {
+  width: 90px;
+  height: 25px;
+  margin-top: 25px;
+}
+.decrease {
+  width: 96px;
+  height: 25px;
+  margin-top: 25px;
+}
+.reset {
+  width: 60px;
+  height: 25px;
+  margin-top: 25px;
+}
